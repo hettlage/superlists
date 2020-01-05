@@ -4,3 +4,4 @@ venv
 Superlists.*
 *.pyc
 __pycache__
+.env
